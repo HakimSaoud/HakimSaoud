@@ -3,7 +3,7 @@
 
 <p align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;E-learing+in+Machine+Learning;Deep+Learning+%7C+AI" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;E-learing+in+Machine+Learning;Deep+Learning+%7C+AI" alt="Typing SVG" /></a>
 
 
 <br>
@@ -13,11 +13,11 @@
 
 <br>
 
-- A passionate Deep learning Student
-- Doing Research in AI
+
+- Computer Science Student
 - Python Developper
-- Machine Learning
-- Data Scientist
+* E-Learning in :
+  - Machine Learning , Deep Learning and AI
 
 
 <br><br>
