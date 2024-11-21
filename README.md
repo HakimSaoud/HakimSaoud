@@ -13,11 +13,10 @@
 
 
 
-- A passionate Deep learning Student
-- Doing Research in AI
+- Computer Science Student
 - Python Developper
-- Machine Learning
-- Data Scientist
+* E-Learning in :
+  - Machine Learning , Deep Learning and AI
 
 
 
