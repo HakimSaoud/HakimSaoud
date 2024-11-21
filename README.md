@@ -107,19 +107,12 @@
 
 <div align='left'>
 
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/hakim-saoud/" target="_blank">
-	[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]
-</a>
-</li>
-
-<li>
-<a href="mailto:50655hakim@gmail.com" target="_blank">
-	[![GitHub](https://i.sstatic.net/tskMh.png) GitHub]
-</a>
-</li>
-	
-</ul>
+<p>
+  <a href="https://www.linkedin.com/in/hakim-saoud/" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="mailto:50655hakim@gmail.com" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  </a>
+</p>
 </div>
