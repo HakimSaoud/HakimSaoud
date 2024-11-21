@@ -46,7 +46,7 @@
 
 - **FrameWorks**:
 
-    ![Tensorflow](https://img.shields.io/badge/logo-tensorflow-orange?logo=tensorflow)
+    ![Tensorflow](https://img.shields.io/badge/tensorflow-grey?logo=tensorflow)
     <!--![Pytorch](https://img.shields.io/badge/logo-pytorch-red?logo=pytorch)-->
     
 
