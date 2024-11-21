@@ -6,8 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;E-learing+in+Machine+Learning;Deep+Learning+%7C+AI" /></a>
 
 
-<br>
-
 	
 ## **About me**
 
