@@ -3,27 +3,29 @@
 
 <p align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;E-learing+in+Machine+Learning;Deep+Learning+%7C+AI" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;E-learing+in+Machine+Learning;Deep+Learning+%7C+AI" alt="Typing SVG" /></a>
+
+
 
 
 	
-## **About me**
-
-<br>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
-- Computer Science Student
+
+- A passionate Deep learning Student
+- Doing Research in AI
 - Python Developper
-* E-Learning in :
-  - Machine Learning , Deep Learning and AI
+- Machine Learning
+- Data Scientist
 
 
-<br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+
 
 <p align="center">
 
@@ -32,7 +34,7 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     <!--[R](https://img.shields.io/badge/R%20-%2314354C.svg?style=for-the-badge&logo=r&logoColor=white)-->
 
-<br>   
+   
     
     
 - **Front-End Development**:
@@ -41,23 +43,23 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
+
 
 - **FrameWorks**:
 
     ![Tensorflow](https://img.shields.io/badge/logo-tensorflow-orange?logo=tensorflow)
     <!--![Pytorch](https://img.shields.io/badge/logo-pytorch-red?logo=pytorch)-->
     
-<br>
+
   
 
-<br>
+
 
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
-<br>
+
 
 - **Softwares and Tools**:
 
@@ -79,11 +81,11 @@
 
 -----
 
-<br>
+
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+
 
 <div align="center">
 
@@ -94,16 +96,16 @@
 </a>
 </div>
 
-<br>
-<br>
+
+
 
 -----
 
-<br>
-<br>
+
+
 
 ## <b> Let's Connect..! 📫 </b>
-<br>
+
 <div align='left'>
 
 <ul>
