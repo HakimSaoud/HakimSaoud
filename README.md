@@ -111,14 +111,13 @@
 
 <li>
 <a href="https://www.linkedin.com/in/hakim-saoud/" target="_blank">
-	**Linkedin**
-<img src="https://img.shields.io/badge/linkedin-black?logo"/>
+<img src="https://img.shields.io/badge/linkedin-black?logo=Linkedin"/>
 </a>
 </li>
 
 <li>
 <a href="mailto:50655hakim@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/email-black?logo=gmail" />
+<img src="https://img.shields.io/badge/email-black?logo=Gmail" />
 </a>
 </li>
 	
