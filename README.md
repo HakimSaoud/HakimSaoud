@@ -78,7 +78,7 @@ I'am a second-year student in computer science at the Higher Institute of Comput
 <p align="left">
 
 	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakimsaoud&show_icons=true&theme=gotham)
+![Hakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakimsaoud&show_icons=true&theme=gotham)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimsaoud&theme=gotham&layout=compact)
