@@ -117,7 +117,7 @@
 </li>
 
 <li>
-<a href="mailto:50655hakim@gmail.com" target="_blank">
+<a href="mailto:me@example.com?subject=Contact%20me" target="_blank">
 <img src="https://img.shields.io/badge/email-black?logo=gmail" />
 </a>
 </li>
