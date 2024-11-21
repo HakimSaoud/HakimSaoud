@@ -104,15 +104,21 @@
 
 
 ## <b> Let's Connect..! 📫 </b>
-
 <div align='left'>
 
-<p>
-  <a href="https://www.linkedin.com/in/hakim-saoud/" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="mailto:50655hakim@gmail.com" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
-  </a>
-</p>
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/hakim-saoud/" target="_blank">
+<img src="https://img.shields.io/badge/Linkedin-black?logo=linkedin"/>
+</a>
+</li>
+
+<li>
+<a href="mailto:50655hakim@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-black?logo=gmail" />
+</a>
+</li>
+	
+</ul>
 </div>
