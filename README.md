@@ -1,30 +1,21 @@
 
-<h1 align="center"><b>Hi 👋, I'm Hakim Saoud </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;E-learing+in+Machine+Learning;Deep+Learning+%7C+AI" alt="Typing SVG" /></a>
+<h1 align="center"><b>Hi 👋,I'm Hakim Saoud</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 
+ <a href="https://git.io/typing-svg"><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;E-learing+in+Machine+Learning;Deep+Learning+%7C+AI" alt="Typing SVG" /></p></a>
 
-	
+
 ## :man_technologist: **About me**
-
-
-
-- Computer Science Student
-- Python Developper
-* E-Learning in :
-  - Machine Learning , Deep Learning and AI
-
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+I'am a second-year student in computer science at the Higher Institute of Computer Science Mahdia. I am passionate about computer science, web and AI. I am a quick learner and eager to learn new technologies. I am also curious and persistent in the face of challenges. I have a team spirit and the ability to work independently. I am rigorous and attentive to details.I have several skills in computer science and programming, including HTML, CSS, JavaScript, Python, C, C++ and Java . I am also Kali Linux user and proficient in web and deep-learing, and I have experience with databases and development tools In addition to my academic studies, I have participated in the Tunisian Olympiad of Programming (TOP) and reached the final. My goal is to continue my studies in computer science . I also want to develop my skills in deep-learing,AI and join an innovative company to participate in ambitious projects.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
 
@@ -98,7 +89,8 @@
 
 
 
------
+
+
 
 
 
