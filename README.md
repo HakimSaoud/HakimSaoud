@@ -111,7 +111,8 @@
 
 <li>
 <a href="https://www.linkedin.com/in/hakim-saoud/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-black?logo=linkedin"/>
+	**Linkedin**
+<img src="https://img.shields.io/badge/linkedin-black?logo"/>
 </a>
 </li>
 
