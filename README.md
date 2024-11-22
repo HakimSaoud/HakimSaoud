@@ -78,7 +78,7 @@ I'am a second-year student in computer science at the Higher Institute of Comput
 <p align="left">
 
 	
-![Hakim's GitHub stats](https://camo.githubusercontent.com/bdec23cd0e514e115fb3cf2ebff25c192c40fc8948ff8139538f907eec9880bf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d68616b696d73616f75642673686f775f69636f6e733d74727565267468656d653d676f7468616d)
+![Hakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakimsaoud&show_icons=true&theme=gotham)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimsaoud&theme=gotham&layout=compact)
 
