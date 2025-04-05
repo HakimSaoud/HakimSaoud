@@ -19,9 +19,6 @@ I'am a second-year student in computer science at the Higher Institute of Comput
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     <!--[R](https://img.shields.io/badge/R%20-%2314354C.svg?style=for-the-badge&logo=r&logoColor=white)-->
 
-   
-    
-    
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
